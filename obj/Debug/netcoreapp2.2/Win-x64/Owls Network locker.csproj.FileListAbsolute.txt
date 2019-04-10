@@ -1,0 +1,14 @@
+C:\Users\Greaux\Desktop\c# projects\Owls Network locker\bin\Debug\netcoreapp2.2\win-x64\hostpolicy.dll
+C:\Users\Greaux\Desktop\c# projects\Owls Network locker\bin\Debug\netcoreapp2.2\win-x64\hostfxr.dll
+C:\Users\Greaux\Desktop\c# projects\Owls Network locker\bin\Debug\netcoreapp2.2\win-x64\Owls Network locker.exe
+C:\Users\Greaux\Desktop\c# projects\Owls Network locker\bin\Debug\netcoreapp2.2\win-x64\Owls Network locker.deps.json
+C:\Users\Greaux\Desktop\c# projects\Owls Network locker\bin\Debug\netcoreapp2.2\win-x64\Owls Network locker.runtimeconfig.json
+C:\Users\Greaux\Desktop\c# projects\Owls Network locker\bin\Debug\netcoreapp2.2\win-x64\Owls Network locker.runtimeconfig.dev.json
+C:\Users\Greaux\Desktop\c# projects\Owls Network locker\bin\Debug\netcoreapp2.2\win-x64\Owls Network locker.dll
+C:\Users\Greaux\Desktop\c# projects\Owls Network locker\bin\Debug\netcoreapp2.2\win-x64\Owls Network locker.pdb
+C:\Users\Greaux\Desktop\c# projects\Owls Network locker\obj\Debug\netcoreapp2.2\win-x64\Owls Network locker.csprojAssemblyReference.cache
+C:\Users\Greaux\Desktop\c# projects\Owls Network locker\obj\Debug\netcoreapp2.2\win-x64\Owls Network locker.csproj.CoreCompileInputs.cache
+C:\Users\Greaux\Desktop\c# projects\Owls Network locker\obj\Debug\netcoreapp2.2\win-x64\Owls Network locker.AssemblyInfoInputs.cache
+C:\Users\Greaux\Desktop\c# projects\Owls Network locker\obj\Debug\netcoreapp2.2\win-x64\Owls Network locker.AssemblyInfo.cs
+C:\Users\Greaux\Desktop\c# projects\Owls Network locker\obj\Debug\netcoreapp2.2\win-x64\Owls Network locker.dll
+C:\Users\Greaux\Desktop\c# projects\Owls Network locker\obj\Debug\netcoreapp2.2\win-x64\Owls Network locker.pdb
