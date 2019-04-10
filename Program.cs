@@ -46,9 +46,9 @@ namespace Greaux
                 if (!isStarted("tallow"))
                 {
                     Console.WriteLine("Problem");
-                    DisableAdapter("Ethernet0");
+                    DisableAdapter("Ethernet0"); //Вместо Ethernet0 - название вашего адаптера
                     Console.ReadKey();
-                    EnableAdapter("Ethernet0");
+                    EnableAdapter("Ethernet0"); //Вместо Ethernet0 - название вашего адаптера
                 }
                 else
                 {
